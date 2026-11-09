@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DeepSeek boot animation",
+    "description": "Plays a full-screen DeepSeek boot sequence when the app opens, then reveals the interface."
+  }
+}

@@ -1,0 +1,3 @@
+- insert:
+    - id: deepseek-boot
+      name: '@local/deepseek-boot'
